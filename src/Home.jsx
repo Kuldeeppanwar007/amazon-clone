@@ -12,7 +12,7 @@ const Home = () => {
           alt="..."
         />
         <div className="home_row">
-            <Product title="The lean startup: How Constant Innovation Creates Radically Successful Businesses Paperback" price={500}  rating={5}
+            <Product id='12345' title="The lean startup: How Constant Innovation Creates Radically Successful Businesses Paperback" price={500}  rating={5}
             image="https://images-na.ssl-images-amazon.com/images/I/51Zymoq7UnL._SX325_BO1,204,203,200_.jpg"/>
               <Product
             id="49538094"
