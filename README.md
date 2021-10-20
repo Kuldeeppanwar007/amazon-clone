@@ -1,5 +1,5 @@
 
-##### [Open Site](https://clone-60f52.web.app/) 
+# [Open Site](https://clone-60f52.web.app/) 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
